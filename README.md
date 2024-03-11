@@ -51,8 +51,7 @@ Au cours de mes études, j'ai toujours travaillé en parallèle, d'abord comme e
 ### Développeur indépendant (Freelance)
 *De mars 2024 à aujourd'hui (1 mois)*
 
-Développement full-stack, Anglais et 3 compétences de plus
-![Freelance](https://img.shields.io/badge/-Freelance-FF9900?style=flat-square&logo=freelancer&logoColor=white)
+Développement full-stack, ![Freelance](https://img.shields.io/badge/-Freelance-FF9900?style=flat-square&logo=freelancer&logoColor=white)
 
 ### Data analysis (Stage)
 *ENGIE | Septembre 2023 - Mars 2024 (7 mois)*
