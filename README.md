@@ -1,5 +1,14 @@
 # Bienvenue sur mon profil GitHub !
 
+## À propos de moi
+
+Je m'appelle Alfred TERNYNCK, j'ai 22 ans et je suis un passionné de l'informatique. Après avoir suivi un cursus à Epitech, je me lance désormais dans le freelancing. J'ai eu l'opportunité de travailler dans des conditions très diverses, que ce soit en télétravail ou sur site. J'ai également eu l'occasion de former des équipes à l'utilisation d'outils informatiques par le passé.
+
+J'ai un fort intérêt pour l'optimisation et le développement continu, ainsi que pour l'automatisation. La découverte et l'apprentissage de nouvelles technologies sont pour moi des aspects essentiels de mon parcours professionnel.
+
+Au cours de mes études, j'ai toujours travaillé en parallèle, d'abord comme employé de grande surface, puis comme serveur et barman. Aujourd'hui, je fais le grand saut dans le monde du freelancing, prêt à mettre en pratique mes compétences et ma passion pour l'informatique.
+
+
 ## Liens utiles
 
 - [Site web personnel](https://alfredternynck.eu)
