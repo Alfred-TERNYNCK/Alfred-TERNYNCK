@@ -14,7 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfred-TERNYNCK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Compétences
 
 - Linux ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -62,5 +61,3 @@ Technologies utilisées :
 - AWS ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 - PowerBI ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
 - Excel ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-
