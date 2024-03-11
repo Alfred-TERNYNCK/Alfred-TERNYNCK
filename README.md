@@ -38,4 +38,19 @@
 - Intégration Continue ![Intégration Continue](https://img.shields.io/badge/-Intégration%20Continue-007396?style=flat-square&logoColor=white)
 - Cloud Computing ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+## Expérience
+
+### Développeur indépendant (Freelance)
+*De mars 2024 à aujourd'hui (1 mois)*
+
+Développement full-stack, Anglais et 3 compétences de plus
+![Freelance](https://img.shields.io/badge/-Freelance-FF9900?style=flat-square&logo=freelancer&logoColor=white)
+
+### Data analysis (Stage)
+*ENGIE | Septembre 2023 - Mars 2024 (7 mois)*
+
+Ville de Paris, Île-de-France, France · Sur site
+
+Je rejoins les équipes d'Engie à la direction financière dans le Pilotage Énergie en tant que développeur. J'appuierai les aspects CI/CD. Ou plus simplement sécurisation et optimisation du traitement des données de l'écosystème. Avec comme technologie : CDH et Databricks.
+![ENGIE](https://img.shields.io/badge/-ENGIE-FFD500?style=flat-square&logo=engie&logoColor=black)
 
