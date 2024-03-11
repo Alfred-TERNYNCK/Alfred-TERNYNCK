@@ -54,3 +54,13 @@ Ville de Paris, Île-de-France, France · Sur site
 Je rejoins les équipes d'Engie à la direction financière dans le Pilotage Énergie en tant que développeur. J'appuierai les aspects CI/CD. Ou plus simplement sécurisation et optimisation du traitement des données de l'écosystème. Avec comme technologie : CDH et Databricks.
 ![ENGIE](https://img.shields.io/badge/-ENGIE-FFD500?style=flat-square&logo=engie&logoColor=black)
 
+Technologies utilisées :
+- CDH ![CDH](https://img.shields.io/badge/-CDH-FF5733?style=flat-square&logo=cloudera&logoColor=white)
+- Databricks ![Databricks](https://img.shields.io/badge/-Databricks-FFCA28?style=flat-square&logo=databricks&logoColor=black)
+- Python ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- SQL ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
+- AWS ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- PowerBI ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+- Excel ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+
